@@ -61,7 +61,7 @@ while True:
             name = "Lin-Manuel Miranda"
         elif match[1]:
             name = "Alex Lacamoire"
-
+        print(name)
         face_names.append(name)
 
     # Label the results
